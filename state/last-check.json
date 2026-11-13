@@ -1,5 +1,5 @@
 {
-  "upstream_latest": "v1.104.6",
+  "upstream_latest": "v1.104.7",
   "our_latest_release": "v1.104.6",
-  "needs_build": false
+  "needs_build": true
 }
